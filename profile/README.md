@@ -36,7 +36,23 @@ We are a group focused on vision-language-action models (VLAs). We wish to bring
 
 ### Awesome VLAs
 - [Awesome-Force-Tactile-VLA](https://github.com/OpenHelix-Team/Awesome-Force-Tactile-VLA): A paper list of multimodal VLAs  
-- [Awesome-VLA-RL](https://github.com/OpenHelix-Team/Awesome-VLA-RL): A taxonomy and summary of recent advances in VLA + RL  
+- [Awesome-VLA-RL](https://github.com/OpenHelix-Team/Awesome-VLA-RL): A taxonomy and summary of recent advances in VLA + RL
+
+## Collaborating Institutions
+
+This initiative is jointly established and co-developed with the following research institutions:
+
+- Westlake University  
+- The Hong Kong University of Science and Technology (Guangzhou)  
+- Zhejiang University  
+- Tsinghua University  
+- Beijing Academy of Artificial Intelligence (BAAI)  
+- Xi’an Jiaotong University  
+- Beijing University of Posts and Telecommunications
+
+## Contact
+If you are interested in joining us, please send your CV to dingpx2015@gmail.com.
+
 
 </div>
 
