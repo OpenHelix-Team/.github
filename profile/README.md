@@ -51,7 +51,7 @@ This initiative is jointly established and co-developed with the following resea
 - Beijing University of Posts and Telecommunications
 
 ## Contact
-If you are interested in joining us, please send your CV to songwenxuan0115@gmail.com.
+If you are interested in discussion or joining us, please send emails to songwenxuan0115@gmail.com.
 
 
 </div>
