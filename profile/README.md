@@ -14,17 +14,17 @@ We are a group focused on vision-language-action models (VLAs). We wish to bring
 - [Spatial-Forcing](https://github.com/OpenHelix-Team/Spatial-Forcing) (ICLR 2026): Implicit Spatial Representation Alignment for Vision-Language-Action Model 
 
 ### Humanoid VLAs
-- [OpenTrajBooster](https://github.com/OpenHelix-Team/OpenTrajBooster): Official implementation of TrajBooster
+- [OpenTrajBooster](https://github.com/OpenHelix-Team/OpenTrajBooster) (ICRA 2026): Official implementation of TrajBooster
 
 ### World-modeling VLAs
-- [Unified-Diffusion-VLA](https://github.com/OpenHelix-Team/Unified-Diffusion-VLA): The first open-sourced diffusion Vision-Language-Action model
+- [Unified-Diffusion-VLA](https://github.com/OpenHelix-Team/Unified-Diffusion-VLA) (ICLR 2026): The first open-sourced diffusion Vision-Language-Action model
 - [HiF-VLA](https://github.com/OpenHelix-Team/HiF-VLA): An efficient, bidirectional spatiotemporal expansion Vision-Language-Action Model
 - [frappe](https://github.com/OpenHelix-Team/frappe): Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment
 - [VLA-RFT](https://github.com/OpenHelix-Team/VLA-RFT): Vision-Language-Action Models with Reinforcement Fine-Tuning  
 
 ### General Foundation Models
-- [VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter): An Effective Paradigm for Tiny-Scale Vision-Language-Action Model  
-- [LLaVA-VLA](https://github.com/OpenHelix-Team/LLaVA-VLA): A Simple Yet Powerful Vision-Language-Action Model
+- [VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter) (AAAI 2026 (Oral)): An Effective Paradigm for Tiny-Scale Vision-Language-Action Model  
+- [LLaVA-VLA](https://github.com/OpenHelix-Team/LLaVA-VLA) (ICRA 2026): A Simple Yet Powerful Vision-Language-Action Model
 
 ### Efficient VLAs
 - [CEED-VLA](https://github.com/OpenHelix-Team/CEED-VLA): Consistency Vision-Language-Action Model with Early-Exit Decoding  
@@ -32,7 +32,7 @@ We are a group focused on vision-language-action models (VLAs). We wish to bring
 
 ### Visual Enhanced Frameworks
 - [VLA-2](https://github.com/OpenHelix-Team/VLA-2): Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation  
-- [LongVLA](https://github.com/OpenHelix-Team/LongVLA): Unleashing Long-Horizon Capability of Vision-Language-Action Models for Robot Manipulation  
+- [LongVLA](https://github.com/OpenHelix-Team/LongVLA) (CoRL 2025): Unleashing Long-Horizon Capability of Vision-Language-Action Models for Robot Manipulation  
 
 ### Awesome VLAs
 - [Awesome-Force-Tactile-VLA](https://github.com/OpenHelix-Team/Awesome-Force-Tactile-VLA): A paper list of multimodal VLAs  
