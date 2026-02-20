@@ -1,6 +1,6 @@
-# OpenHelix-Team: Building Embodiment Intelligence
+# OpenHelix Robotics: Building Next-generation Embodiment Intelligence
 
-We are a group of researchers, with a focus on vision-language-action models (VLAs). We wish to bring insights to community with our research. 
+We are a group focused on vision-language-action models (VLAs). We wish to bring insights to the community with our research. 
 
 ![GitHub User's stars](https://img.shields.io/github/stars/OpenHelix-Team)
 
@@ -8,15 +8,35 @@ We are a group of researchers, with a focus on vision-language-action models (VL
 ## Introduction
 **OpenHelix-Team** introduces a novel family of **fully open-source** Vision-Language-Action Models (VLAs) that achieves **state-of-the-art performance**  with substantially **lower cost**.
 
-- **Superior Performance**
-
-- **Ultra-Efficient Training Framework** 
-
-- **Fully Open Framework**
-
 ## Visual Feature Alignment for VLAs
 
-- [ReconVLA](https://github.com/OpenHelix-Team/ReconVLA): Reconstructive Vision-Language-Action Model as Effective Robot Perceiver
+- [ReconVLA](https://github.com/OpenHelix-Team/ReconVLA) (AAAI 2026 Best Paper Award): Reconstructive Vision-Language-Action Model as Effective Robot Perceiver
+- [Spatial-Forcing](https://github.com/OpenHelix-Team/Spatial-Forcing) (ICLR 2026): Implicit Spatial Representation Alignment for Vision-Language-Action Model 
+
+## Humanoid VLAs
+- [OpenTrajBooster](https://github.com/OpenHelix-Team/OpenTrajBooster): Official implementation of TrajBooster
+
+## World-modeling VLAs
+- [Unified-Diffusion-VLA](https://github.com/OpenHelix-Team/Unified-Diffusion-VLA): The first open-sourced diffusion Vision-Language-Action model
+- [HiF-VLA](https://github.com/OpenHelix-Team/HiF-VLA): An efficient, bidirectional spatiotemporal expansion Vision-Language-Action Model
+- [frappe](https://github.com/OpenHelix-Team/frappe): Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment
+- [VLA-RFT](https://github.com/OpenHelix-Team/VLA-RFT): Vision-Language-Action Models with Reinforcement Fine-Tuning  
+
+## General Foundation Models
+- [VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter): An Effective Paradigm for Tiny-Scale Vision-Language-Action Model  
+- [LLaVA-VLA](https://github.com/OpenHelix-Team/LLaVA-VLA): A Simple Yet Powerful Vision-Language-Action Model
+
+## Efficient VLAs
+- [CEED-VLA](https://github.com/OpenHelix-Team/CEED-VLA): Consistency Vision-Language-Action Model with Early-Exit Decoding  
+- [OpenHelix](https://github.com/OpenHelix-Team/OpenHelix): An Open-Source Dual-System Vision-Language-Action Model for Robotic Manipulation
+
+# Visual Enhanced Frameworks
+- [VLA-2](https://github.com/OpenHelix-Team/VLA-2): Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation  
+- [LongVLA](https://github.com/OpenHelix-Team/LongVLA): Unleashing Long-Horizon Capability of Vision-Language-Action Models for Robot Manipulation  
+
+## Awesome VLAs
+- [Awesome-Force-Tactile-VLA](https://github.com/OpenHelix-Team/Awesome-Force-Tactile-VLA): A paper list of multimodal VLAs  
+- [Awesome-VLA-RL](https://github.com/OpenHelix-Team/Awesome-VLA-RL): A taxonomy and summary of recent advances in VLA + RL  
 
 </div>
 
