@@ -12,7 +12,11 @@ We are a group of researchers, with a focus on vision-language-action models (VL
 
 - **Ultra-Efficient Training Framework** 
 
-- **Fully Open Framework** 
+- **Fully Open Framework**
+
+## Visual Feature Alignment for VLAs
+
+- [ReconVLA](https://github.com/OpenHelix-Team/ReconVLA): Reconstructive Vision-Language-Action Model as Effective Robot Perceiver
 
 </div>
 
