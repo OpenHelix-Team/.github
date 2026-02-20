@@ -3,7 +3,7 @@
 We are a group focused on vision-language-action models (VLAs). We wish to bring insights to the community with our research. 
 
 ![GitHub User's stars](https://img.shields.io/github/stars/OpenHelix-Team)
-
+![Followers](https://img.shields.io/github/followers/OpenHelix-Team?style=social)
 
 ## Introduction
 **OpenHelix-Team** introduces a novel family of **fully open-source** Vision-Language-Action Models (VLAs) that achieves **state-of-the-art performance**  with substantially **lower cost**.
