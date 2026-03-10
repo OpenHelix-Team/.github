@@ -18,7 +18,7 @@ We are a group focused on vision-language-action models (VLAs). We wish to bring
 
 ### World-modeling VLAs
 - [Unified Diffusion VLA](https://github.com/OpenHelix-Team/Unified-Diffusion-VLA) (ICLR 2026): The first open-sourced diffusion Vision-Language-Action model
-- [HiF-VLA](https://github.com/OpenHelix-Team/HiF-VLA): An efficient, bidirectional spatiotemporal expansion Vision-Language-Action Model
+- [HiF-VLA](https://github.com/OpenHelix-Team/HiF-VLA) (CVPR 2026): An efficient, bidirectional spatiotemporal expansion Vision-Language-Action Model
 - [frappe](https://github.com/OpenHelix-Team/frappe): Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment
 - [VLA-RFT](https://github.com/OpenHelix-Team/VLA-RFT): Vision-Language-Action Models with Reinforcement Fine-Tuning  
 
