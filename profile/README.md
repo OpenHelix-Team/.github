@@ -1,6 +1,6 @@
 # OpenHelix Robotics: Building Next-generation Embodiment Intelligence
 
-We are a group focused on vision-language-action models (VLAs). We wish to bring insights to the community with our research. 
+We are a non-profit organization in academia, focusing on robot foundation models. We wish to bring insights to the community with our research. 
 
 ![GitHub User's stars](https://img.shields.io/github/stars/OpenHelix-Team)
 ![Followers](https://img.shields.io/github/followers/OpenHelix-Team?style=social)
