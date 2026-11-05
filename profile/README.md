@@ -6,7 +6,7 @@ We are a non-profit organization in academia, focusing on robot foundation model
 ![Followers](https://img.shields.io/github/followers/OpenHelix-Team?style=social)
 
 ## Introduction
-**OpenHelix-Team** introduces a novel family of **fully open-source** Vision-Language-Action Models (VLAs) that achieves **state-of-the-art performance**  with substantially **lower cost**.
+**OpenHelix-Team** introduces a novel family of **fully open-source** robot foundation models that achieves **state-of-the-art performance**  with substantially **lower cost**.
 
 ### Awesome VLAs
 - [Awesome-Force-Tactile-VLA](https://github.com/OpenHelix-Team/Awesome-Force-Tactile-VLA): A paper list of multimodal VLAs  
