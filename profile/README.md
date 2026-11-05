@@ -46,10 +46,13 @@ We are a non-profit organization in academia, focusing on robot foundation model
 
 ## Collaborating Institutions
 
-This initiative is jointly established and co-developed with the following research institutions:
+This initiative is jointly established and co-developed with the following research institutions.
 
+Leading institutions:
+- The Hong Kong University of Science and Technology (Guangzhou)
 - Westlake University  
-- The Hong Kong University of Science and Technology (Guangzhou)  
+
+Joined institutions:
 - Zhejiang University  
 - Tsinghua University  
 - Beijing Academy of Artificial Intelligence (BAAI)  
