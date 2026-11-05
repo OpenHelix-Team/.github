@@ -1,4 +1,4 @@
-# OpenHelix Robotic Lab: Building Next-generation Embodiment Intelligence
+# OpenHelix Robotic Lab (OH-Lab): Building Next-generation Embodiment Intelligence
 
 We are a non-profit organization in academia, focusing on robot foundation models. We wish to bring insights to the community with our research. 
 
